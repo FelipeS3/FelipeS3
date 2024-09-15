@@ -1,3 +1,6 @@
+
+
+
 <h2 align="left">Hi 👋! My name is Felipe Soares and I'm a Software developer from Brazil.</h2>
 
 ###
@@ -41,13 +44,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FelipeS3/FelipeS3/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FelipeS3.FelipeS3&left_color=aquamarine&right_color=aqua"  />
