@@ -1,4 +1,6 @@
-<h3 align="center">Hi 👋! My name is Felipe Soares, and I’m a Software Developer.</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+Al;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ###
 
@@ -30,7 +32,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
-###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=felipexy50@gmail.com&tf=cm" target="_blank">
