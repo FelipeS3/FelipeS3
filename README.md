@@ -1,13 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header" alt="Header" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+Al;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+Al;Be+Welcome!+:%29" alt="Typing SVG" />
+</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeS3&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=FelipeS3&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=6" height="151" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeS3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeS3&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=FelipeS3&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6" height="151" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeS3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -28,7 +32,9 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer" alt="Footer" width="100%"/>
+</p>
 
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=felipexy50@gmail.com&tf=cm" target="_blank">
