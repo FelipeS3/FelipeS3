@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120§ion=header" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header" alt="Header" width="100%"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=B22222&size=35¢er=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+Al;Be+Welcome!+:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+AL;Be+Welcome!+:%29" alt="Typing SVG" />
 </h1>
 
 ###
@@ -33,14 +33,14 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120§ion=footer" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer" alt="Footer" width="100%"/>
 </p>
 
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=felipexy50@gmail.com&tf=cm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=B22222&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/felipe-soares-699685287/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1E90FF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1E90FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
