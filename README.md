@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120§ion=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120§ion=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=B22222&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+Al;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=B22222¢er=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+Al;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeS3&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=FelipeS3&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6" height="151" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeS3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+<div align="center" style="max-width: 1000px; margin: 0 auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeS3&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="stats graph" style="max-width: 100%;" />
+  <img src="https://streak-stats.demolab.com?user=FelipeS3&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6" height="151" alt="streak graph" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeS3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" style="max-width: 100%;" />
 </div>
 
 ###
@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120§ion=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120§ion=footer"/>
 
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=felipexy50@gmail.com&tf=cm" target="_blank">
