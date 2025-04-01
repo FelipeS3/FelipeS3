@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=B22222¢er=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+Al;Be+Welcome!+:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=B22222&size=35¢er=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+Al;Be+Welcome!+:%29" alt="Typing SVG" />
 </h1>
 
 ###
