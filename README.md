@@ -1,13 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120§ion=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=B22222¢er=true&vCenter=true&multiline=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+Al;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35¢er=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Soares+Silva;I'm+20+years+old;I+am+from+Arapiraca,+Al;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ###
 
-<div align="center" style="max-width: 1000px; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeS3&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="stats graph" style="max-width: 100%;" />
-  <img src="https://streak-stats.demolab.com?user=FelipeS3&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6" height="151" alt="streak graph" style="max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeS3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" style="max-width: 100%;" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <div style="width: 400px; height: 150px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=FelipeS3&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="stats graph" style="width: 100%; height: 100%;" />
+  </div>
+  <div style="width: 400px; height: 151px;">
+    <img src="https://streak-stats.demolab.com?user=FelipeS3&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6" height="151" alt="streak graph" style="width: 100%; height: 100%;" />
+  </div>
+  <div style="width: 320px; height: 150px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeS3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" style="width: 100%; height: 100%;" />
+  </div>
 </div>
 
 ###
