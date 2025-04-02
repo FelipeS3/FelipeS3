@@ -9,9 +9,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeS3&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=FelipeS3&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6&cache_seconds=3600" height="151" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeS3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&cache_seconds=3600" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeS3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&cache_seconds=1800" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=FelipeS3&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6&cache_seconds=1800" height="151" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeS3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800" height="150" alt="languages graph"  />
 </div>
 
 ###
